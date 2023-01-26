@@ -42,7 +42,7 @@ plt.show()
 
 ```
 ## Output
-![](univariate.png)
+
 ![](univariate%202%20-%20Copy.png)
 
 ## Result
